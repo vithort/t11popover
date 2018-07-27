@@ -1,0 +1,7 @@
+{
+  "name": "t11popover",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
